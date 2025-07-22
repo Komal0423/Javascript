@@ -1,4 +1,4 @@
 # Javascript
 repo
 <br>
-author-komal bhatane
+author-komal (disha )
